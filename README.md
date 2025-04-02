@@ -11,7 +11,7 @@ I specialize in **Python**, **C#/.NET**, **React**, and **Javascript**. I enjoy 
 ### 📊 **GitHub Stats**
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AlejandroAceves&show_icons=true&theme=dark" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroAceves&layout=compact&theme=dark" width="350px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroAceves&layout=compact&theme=dark" width="400px">
 </p>
 
 
