@@ -1,8 +1,8 @@
 ﻿# Welcome to My Github Page! 👋
 
 ---
-[!Linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)(https://www.linkedin.com/in/daniel-alejandro-aceves-pe%C3%B1a-0583a027b/)]
-[!DockerHub](https://img.shields.io/badge/DockerHub-View-blue?style=for-the-badge&logo=dockerhub)(https://hub.docker.com/repositories/danielaceves)]
+![Linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)(https://www.linkedin.com/in/daniel-alejandro-aceves-pe%C3%B1a-0583a027b/)]
+![DockerHub](https://img.shields.io/badge/DockerHub-View-blue?style=for-the-badge&logo=dockerhub)(https://hub.docker.com/repositories/danielaceves)]
 
 👋 **Hello! I am Alejandro Aceves**, a soon to be **Computer Science Engineer** with knowledge ob modern software development and a strong belief in **open source**.  
 I specialize in **Python**, **C#/.NET**, **React**, and **Javascript**. I enjoy building scalable applications and researching new technologies.
