@@ -27,4 +27,3 @@ I specialize in **Python**, **C#/.NET**, **React**, and **Javascript**. I enjoy 
 
 💬 Feel free to **connect** with me!  
 📫 **Email:** daniel.aceves@cetys.edu.mx
-📱 **Cellphone:** (686)-233-2952
