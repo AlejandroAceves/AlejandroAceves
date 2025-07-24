@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alejandro-aceves-pe%C3%B1a-0583a027b/)
 [![DockerHub](https://img.shields.io/badge/DockerHub-View-blue?style=for-the-square&logo=dockerhub&logoColor=white)](https://hub.docker.com/repositories/danielaceves)
 
-**Hello! I am Alejandro Aceves**, a soon to be **Computer Science Engineer** with knowledge on modern software development.  
+**Hello! I am Alejandro Aceves**, a **Computer Science Engineer** with knowledge on modern software development.  
 I specialize in **Python**, **C#/.NET**, **React**, and **Javascript**. I enjoy building scalable applications and researching new technologies.
 > _All projects here are personal or experimental and may not reflect my full skillset._
 
@@ -19,11 +19,10 @@ I specialize in **Python**, **C#/.NET**, **React**, and **Javascript**. I enjoy 
 
 ### 🌱 **Currently Learning**
 - **Microservices** with .NET and JS
-- **Cloud Computing** (AWS)
+- **Cloud Computing** (AWS) and (GCS)
 - **Linux Operating Systems** For database administration
 - **Software Architecture** Best Practices
 
 ---
 
 💬 Feel free to **connect** with me!  
-📫 **Email:** daniel.aceves@cetys.edu.mx
