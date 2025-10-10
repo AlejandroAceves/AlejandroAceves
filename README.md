@@ -22,8 +22,7 @@ I specialize in **Python**, **C#/.NET**, **React**, and **Typescript**. I enjoy 
 - **Cloud Computing** (AWS) and (GCS)
 - **Linux Operating Systems** For database administration
 - **Software Architecture** Best Practices
+- **Game Dev** Unity
+--- 
 
----
-
-💬 Feel free to **connect** with me!  
 
