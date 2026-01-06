@@ -5,7 +5,7 @@
 [![DockerHub](https://img.shields.io/badge/DockerHub-View-blue?style=for-the-square&logo=dockerhub&logoColor=white)](https://hub.docker.com/repositories/danielaceves)
 
 **Hello! I am Alejandro Aceves**, a **Computer Science Engineer** with knowledge on modern software development.  
-I specialize in **Python**, **C#/.NET**, **React**, and **Typescript**. I enjoy building scalable applications and researching new technologies.
+I specialize in **Python**,**C++** ,**C#/.NET**, **React**, and **Typescript**. I enjoy building scalable applications and researching new technologies.
 > _All projects here are personal or experimental and may not reflect my full skillset._
 
 ---
@@ -23,6 +23,7 @@ I specialize in **Python**, **C#/.NET**, **React**, and **Typescript**. I enjoy 
 - **Software Architecture** Best Practices
 - **Game Dev** Unity
 --- 
+
 
 
 
